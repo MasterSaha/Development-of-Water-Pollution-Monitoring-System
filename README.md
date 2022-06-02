@@ -54,3 +54,5 @@ strategies to monitor the quality of water.
 is used for continuously moving on water surface to identify water quality. The
 different sensors are interfaced to the controller viz. water temperature sensor, air
 temperature & humidity sensor, Ph sensor, Turbidity sensor.</p>
+
+**Published Paper: https://doi.org/10.48175/IJARSCT-2268**
